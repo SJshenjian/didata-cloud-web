@@ -2,14 +2,14 @@
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
 
-<h1>Vue vben admin</h1>
+<h1>Vue 地 数</h1>
 </div>
 
 **English** | [中文](./README.zh-CN.md)
 
 ## Introduction
 
-Vue Vben Admin is a free and open source middle platform/back-end template. Using the latest `vue3`, `vite4`, `TypeScript` and other mainstream technology, Vben is the out-of-the-box front-end solution for both production and learning purpose.
+Vue 地 数 is a free and open source middle platform/back-end template. Using the latest `vue3`, `vite4`, `TypeScript` and other mainstream technology, Vben is the out-of-the-box front-end solution for both production and learning purpose.
 
 ## Features
 

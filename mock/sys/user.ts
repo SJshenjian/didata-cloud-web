@@ -6,7 +6,7 @@ export function createFakeUserList() {
     {
       userId: '1',
       username: 'vben',
-      realName: 'Vben Admin',
+      realName: '地 数',
       avatar: '',
       desc: 'manager',
       password: '123456',
